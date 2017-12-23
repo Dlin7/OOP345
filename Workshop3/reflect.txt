@@ -1,0 +1,2 @@
+So I basically learned that functions that use rvalue for move constructors or operators occupy less memory in space and performs more efficiently given that memory does not need to be allocated for incoming arguments in order to process the argument through a function.
+Move operators and constructors also are more streamlined in that they deallocate memory for the source of the argument in addition to deallocating memory for the members of an object, preventing extra memory being used to store data that will not be used again in space.

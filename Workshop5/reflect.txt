@@ -1,0 +1,2 @@
+In this workshop I learned how to store notifications of a message in a separate container class that was responsible for memory allocation, copying, and de-allocation and display of the modified messages.
+The strings that take in and read these messages are also soley responsible for organizing the messages into users, tweets, and replies by using member functions such as substr() and find().

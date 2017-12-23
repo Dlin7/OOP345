@@ -1,0 +1,10 @@
+Script started on Mon 11 Sep 2017 02:34:14 PM EDT
+cornel.barna@matrix:~/tmp/code> ws oop345 btp305
+Command Line : ws oop345 btp305
+Maximum number of characters to be stored : 3
+0: oop
+1: btp
+cornel.barna@matrix:~/tmp/code> exit
+exit
+
+Script done on Mon 11 Sep 2017 02:34:25 PM EDT

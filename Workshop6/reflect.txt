@@ -1,0 +1,2 @@
+In this workshop on lambda expressions, I learned how to use lambda expressions to capture input values that determined the letter grade through a series of conditions. 
+The lambda expressions are able to pass a pointer to the letter function as the 2nd parameter, hence creating a closure of the letter function inside of a Grades object. 

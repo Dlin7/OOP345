@@ -1,0 +1,28 @@
+Script started on Fri 13 Oct 2017 12:46:05 PM EDT
+yhlin7@matrix:~/oop345/Workshop5> ws w5_test.dat
+
+Notifications
+=============
+
+Message
+ User  : jim
+ Tweet : Workshop 5 is cool
+
+Message
+ User  : harry
+ Reply : jim
+ Tweet : working on workshop 5 now
+
+Message
+ User  : dave
+ Tweet : what the ^#$%!
+
+Message
+ User  : john
+ Reply : harry
+ Tweet : I'm done
+
+yhlin7@matrix:~/oop345/Workshop5> exit
+exit
+
+Script done on Fri 13 Oct 2017 12:46:10 PM EDT

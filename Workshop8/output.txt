@@ -1,0 +1,16 @@
+Script started on Fri 15 Dec 2017 10:07:45 PM EST
+yhlin7@matrix:~/oop345/Workshop8> ws HS_Cl[Kollege_GPA.dat
+
+Command Line : ws HS_College_GPA.dat 
+
+Statistics
+==========
+y mean    =    3.12
+y sigma   =    0.50
+y median  =    3.21
+slope     =    0.78
+intercept =    0.73
+yhlin7@matrix:~/oop345/Workshop8> exit
+exit
+
+Script done on Fri 15 Dec 2017 10:07:53 PM EST

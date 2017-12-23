@@ -1,0 +1,52 @@
+Script started on Fri 22 Dec 2017 10:42:03 PM EST
+yhlin7@matrix:~/oop345/Workshop9> wsD[K Des [Kcr[K[K[K[K[K[K[K[K~cornel.barna/submit 345_w9nled error.txt[K~cornel.barna/submit 345_w9cd Workshop9[Kmkdir Workshop9..[K~cornel.barna/submit 345_ms3_cleancd oop345/Milestone3[Kexit[Kws Descriptions.dat GoodPrices.dat; ws Descriptions.dat BadPrices.dat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C~cornel.barna/submit 345_ms3_clean[Kws Descriptions.dat GoodPrices.dat; ws Descriptions.dat BadPrices.dat
+
+Command Line : ws Descriptions.dat GoodPrices.dat 
+
+ Code Description
+ 4662    tomatoes
+ 4039   cucumbers
+ 4056    brocolli
+ 4067      lemons
+ 4068     oranges
+
+
+ Code   Price
+ 4067    0.99
+ 4068    0.67
+ 4039    1.99
+ 4056    2.49
+
+
+ Description   Price
+   cucumbers    1.99
+    brocolli    2.49
+      lemons    0.99
+     oranges    0.67
+
+
+Press any key to continue ... 
+
+Command Line : ws Descriptions.dat BadPrices.dat 
+
+ Code Description
+ 4662    tomatoes
+ 4039   cucumbers
+ 4056    brocolli
+ 4067      lemons
+ 4068     oranges
+
+
+ Code   Price
+ 4067    0.99
+ 4068    0.67
+ 4039    1.99
+ 4056   -2.49
+
+*** Negative prices are invalid ***
+
+Press any key to continue ... 
+yhlin7@matrix:~/oop345/Workshop9> exit
+exit
+
+Script done on Fri 22 Dec 2017 10:42:24 PM EST

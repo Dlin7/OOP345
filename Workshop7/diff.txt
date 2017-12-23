@@ -1,0 +1,10 @@
+
+In line number 4 of your output:
+The output should be:
+     10012     34.56
+But your output is: 
+0x8054bb8
+^
+|
+Professor's character ASCII code: hex(20), dec(32)
+un-matched character ASCII code: hex(30), dec(48)

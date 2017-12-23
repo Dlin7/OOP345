@@ -1,0 +1,10 @@
+
+In line number 5 of your output:
+The output should be:
+0: oop
+But your output is: 
+yhlin7@matrix:~/oop345/Workshop1> exit
+^
+|
+Professor's character ASCII code: hex(30), dec(48)
+un-matched character ASCII code: hex(79), dec(121)

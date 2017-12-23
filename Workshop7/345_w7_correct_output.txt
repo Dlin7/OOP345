@@ -1,0 +1,14 @@
+Script started on Sun 26 Nov 2017 07:55:24 PM EST
+cornel.barna@matrix:~/tmp/code> ws w7.dat
+Product No      Cost Taxable
+     10012     34.56
+     10023     45.67 HST
+     10234     12.32 PST
+     10056     67.54
+     10029     54.12 HST
+     10034     96.30
+     Total    324.47
+cornel.barna@matrix:~/tmp/code> exit
+exit
+
+Script done on Sun 26 Nov 2017 07:55:37 PM EST

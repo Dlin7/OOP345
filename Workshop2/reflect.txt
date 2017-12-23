@@ -1,0 +1,2 @@
+I learned how to use enumeration types to check types of incoming inputs in order to separate incoming arguments of the same type.
+I also learned how to create an array of class data types and all of its respective methods and functions for repeated use.

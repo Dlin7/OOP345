@@ -1,0 +1,28 @@
+Script started on Mon 09 Oct 2017 01:25:22 PM EDT
+cornel.barna@matrix:~/tmp/code/345> ws w5_test.dat
+
+Notifications
+=============
+
+Message
+ User  : jim
+ Tweet : Workshop 5 is cool
+
+Message
+ User  : harry
+ Reply : jim
+ Tweet : working on workshop 5 now
+
+Message
+ User  : dave
+ Tweet : what the ^#$%!
+
+Message
+ User  : john
+ Reply : harry
+ Tweet : I'm done
+
+cornel.barna@matrix:~/tmp/code/345> exit
+exit
+
+Script done on Mon 09 Oct 2017 01:25:32 PM EDT

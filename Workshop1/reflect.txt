@@ -1,0 +1,2 @@
+From Workshop1, I learned the concept of int main() accepting either no arguments, or a number of minimum arguments from the command line, which can be processed in the program in order to determine whether the arguments are valid. 
+Secondly, I also learned externally linking a local variable with 'extern' extends the scope of that local variable beyond just the respective translation unit and in a global scope.

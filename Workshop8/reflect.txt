@@ -1,0 +1,2 @@
+Through the accumulate STL function library, we learned in this workshop how to take a vector of values and add them up all together using the accumulate function of .begin() and .end().
+Also, through the push_back function, we were able to collect values from the argument list and sequentially add them to the x and y ccoordinate vectors.

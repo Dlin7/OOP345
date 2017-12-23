@@ -1,0 +1,13 @@
+Script started on Tue 03 Oct 2017 03:15:43 PM EDT
+yhlin7@matrix:~/oop345/Workshop3> ws gutenberg_shakespeare
+Constructor      0.000 seconds - a.size = 0
+Constructor      0.060 seconds - b.size = 124456
+Copy Assignment  0.030 seconds - a.size = 124456
+Move Assignment  0.010 seconds - a.size = 124456
+Copy Constructor 0.020 seconds - c.size = 124456
+Move Constructor 0.000 seconds - d.size = 124456
+Destructor       0.020 seconds
+yhlin7@matrix:~/oop345/Workshop3> ws gutenberg_shakespeareexit[K
+exit
+
+Script done on Tue 03 Oct 2017 03:15:56 PM EDT

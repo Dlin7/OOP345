@@ -1,0 +1,4 @@
+Item.cpp: In member function ‘Item& Item::operator++(int)’:
+Item.cpp:45:13: error: invalid initialization of non-const reference of type ‘Item&’ from an rvalue of type ‘unsigned int’
+  return code++;
+         ~~~~^~

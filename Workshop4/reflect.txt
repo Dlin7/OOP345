@@ -1,0 +1,2 @@
+In this templates workshop, I learned that arbitrary variable names can be used as types in template class and can be used in header files.
+They can also be passed as parameters and used as return types in header files as well.
